@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Java
+target
+
+# maven-shade-plugin
+dependency-reduced-pom.xml
