@@ -34,15 +34,15 @@ ArrayListBenchmark.addMiddleWithGrow    ss  100  155934,950 ? 24135,195  ns/op
 ArrayListBenchmark.getFirst             ss  100    3271,540 ?   483,624  ns/op
 ArrayListBenchmark.getLast              ss  100    2463,330 ?   277,437  ns/op
 ArrayListBenchmark.getMiddle            ss  100    4182,440 ?   456,135  ns/op
-HashMapBenchmark.get                    ss  100    5576,600 ?   631,705  ns/op
-HashMapBenchmark.put                    ss  100    3066,290 ?   175,006  ns/op
-HashMapBenchmark.putWithResize          ss  100  882820,630 ? 43866,334  ns/op
 LinkedListBenchmark.addFirst            ss  100    4849,580 ?   492,284  ns/op
 LinkedListBenchmark.addLast             ss  100    2065,620 ?   232,359  ns/op
 LinkedListBenchmark.addMiddle           ss  100  120841,800 ? 13909,459  ns/op
 LinkedListBenchmark.getFirst            ss  100    4610,110 ?   321,066  ns/op
 LinkedListBenchmark.getLast             ss  100    3763,300 ?   273,486  ns/op
 LinkedListBenchmark.getMiddle           ss  100  132970,120 ? 14069,491  ns/op
+HashMapBenchmark.get                    ss  100    5576,600 ?   631,705  ns/op
+HashMapBenchmark.put                    ss  100    3066,290 ?   175,006  ns/op
+HashMapBenchmark.putWithResize          ss  100  882820,630 ? 43866,334  ns/op
 TreeMapBenchmark.get                    ss  100    4729,790 ?   583,769  ns/op
 TreeMapBenchmark.put                    ss  100    3023,480 ?   437,909  ns/op
 ```
